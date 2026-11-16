@@ -3,7 +3,7 @@
 ## 1. Thông tin thành viên
 
 - Họ tên: Nguyễn Hoàng Việt
-- MSSV: 03487
+- MSSV: 2A202603487
 - Email: hoangviet1824qsqn@gmail.com
 - GitHub: HViettt
 
